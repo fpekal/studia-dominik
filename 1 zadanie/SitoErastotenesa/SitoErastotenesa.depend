@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1584612050 source:c:\users\kadzbi\owncloud\dokumenty\politechnika\dydaktyka\programowanie obiektowe\programy\sitoerastotenesa\main.cpp
+	<iostream>
+	"cSito1.h"
+	"cSito2.h"
+	"cSito3.h"
+
+1584608746 c:\users\kadzbi\owncloud\dokumenty\politechnika\dydaktyka\programowanie obiektowe\programy\sitoerastotenesa\include\csito2.h
+	<iostream>
+
+1584611560 c:\users\kadzbi\owncloud\dokumenty\politechnika\dydaktyka\programowanie obiektowe\programy\sitoerastotenesa\include\csito3.h
+	<vector>
+	<iostream>
+
+1584608750 source:c:\users\kadzbi\owncloud\dokumenty\politechnika\dydaktyka\programowanie obiektowe\programy\sitoerastotenesa\src\csito2.cpp
+	"cSito2.h"
+
+1584611606 source:c:\users\kadzbi\owncloud\dokumenty\politechnika\dydaktyka\programowanie obiektowe\programy\sitoerastotenesa\src\csito3.cpp
+	"cSito3.h"
+
+1584611141 source:c:\users\kadzbi\owncloud\dokumenty\politechnika\dydaktyka\programowanie obiektowe\programy\sitoerastotenesa\src\csito1.cpp
+	"cSito1.h"
+
+1584611166 c:\users\kadzbi\owncloud\dokumenty\politechnika\dydaktyka\programowanie obiektowe\programy\sitoerastotenesa\include\csito1.h
+	<iostream>
+
+1615800175 source:d:\documents\codeblocks\sitoerastotenesa\main.cpp
+	<iostream>
+	"cSito1.h"
+	"cSito2.h"
+	"cSito3.h"
+
+1615798026 d:\documents\codeblocks\sitoerastotenesa\include\csito1.h
+	<iostream>
+
+1615800467 d:\documents\codeblocks\sitoerastotenesa\include\csito2.h
+	<iostream>
+
+1615797327 d:\documents\codeblocks\sitoerastotenesa\include\csito3.h
+	<vector>
+	<iostream>
+
+1615797327 source:d:\documents\codeblocks\sitoerastotenesa\src\csito1.cpp
+	"cSito1.h"
+
+1615800337 source:d:\documents\codeblocks\sitoerastotenesa\src\csito2.cpp
+	"cSito2.h"
+
+1615797327 source:d:\documents\codeblocks\sitoerastotenesa\src\csito3.cpp
+	"cSito3.h"
+
+1678782000 source:c:\users\k4c\documents\codeblocks\sitoerastotenesa\src\csito1.cpp
+	"cSito1.h"
+
+1678781996 c:\users\k4c\documents\codeblocks\sitoerastotenesa\include\csito1.h
+	<iostream>
+
+1678781968 source:c:\users\k4c\documents\codeblocks\sitoerastotenesa\src\csito2.cpp
+	"cSito2.h"
+
+1678781981 c:\users\k4c\documents\codeblocks\sitoerastotenesa\include\csito2.h
+	<iostream>
+
+1678781971 source:c:\users\k4c\documents\codeblocks\sitoerastotenesa\src\csito3.cpp
+	"cSito3.h"
+
+1678781922 c:\users\k4c\documents\codeblocks\sitoerastotenesa\include\csito3.h
+	<vector>
+	<iostream>
+
+1678781878 source:c:\users\k4c\documents\codeblocks\sitoerastotenesa\main.cpp
+	<iostream>
+	"cSito1.h"
+	"cSito2.h"
+	"cSito3.h"
+	<cmath>
+
