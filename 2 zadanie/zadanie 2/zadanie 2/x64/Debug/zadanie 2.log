@@ -1,0 +1,6 @@
+﻿  cWarzywo.cpp
+C:\Users\thepr\Desktop\studia\programowanie obiektowe\git\studia\2 zadanie\zadanie 2\zadanie 2\cWarzywo.cpp(3,129): warning C4042: 'gColor': has bad storage class
+C:\Users\thepr\Desktop\studia\programowanie obiektowe\git\studia\2 zadanie\zadanie 2\zadanie 2\cWarzywo.cpp(3,131): error C2512: 'cProdukt': no appropriate default constructor available
+C:\Users\thepr\Desktop\studia\programowanie obiektowe\git\studia\2 zadanie\zadanie 2\zadanie 2\cProdukt.h(3,7): message : see declaration of 'cProdukt'
+  zadanie 2.cpp
+  Generating Code...
