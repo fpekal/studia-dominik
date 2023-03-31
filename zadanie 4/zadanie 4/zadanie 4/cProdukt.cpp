@@ -1,4 +1,6 @@
 #include "cProdukt.h"
+cProdukt::cProdukt() {
+}
 cProdukt::cProdukt(int glp, float gCount, float gPrice, float gVat, std::string gName, std::string gUnit) {
 	wypelnij(glp, gCount, gPrice, gVat, gName, gUnit);
 }

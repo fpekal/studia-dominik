@@ -6,6 +6,7 @@ private:
 	float mCount, mPrice, mVat;
 	std::string mName, mUnit;
 public:
+	cProdukt();
 	cProdukt(int , float , float , float , std::string , std::string );
 	virtual ~cProdukt();
 	int getLp();
